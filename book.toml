@@ -1,0 +1,6 @@
+[book]
+authors = ["yuuki"]
+language = "en"
+multilingual = false
+src = "src"
+title = "BitBuckets FRC Wiki"
