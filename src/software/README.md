@@ -1,10 +1,9 @@
+# Software
+
 **IMPORTANT: [What do all these fancy software words 
 mean?](./software/terminology.md)**
 
-Software!! Software!! Software!!
-
-# What is Software?
-Software is code
+> The BitBuckets Software division wiki
 
 # What do we do?
 The Software subdivision of BitBuckets handles all of the code that 
@@ -24,10 +23,6 @@ Oriented Design
 
 We'll also be working with a First Robotics specific library called WPILib 
 which helps us control the robot parts' built in code
-
-Finally you'll learn a lot about debugging and how to write better code!
-
-!Todo add more stuff here
 
 # Tools we use
 - Java (Code)
