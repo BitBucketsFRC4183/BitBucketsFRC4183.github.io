@@ -13,7 +13,6 @@
 # Divisions
 
 - [What is Mechanical?](./mechanical/README.md)
-
 - [What is Software?](./software/README.md)
   - [Getting Started](./software/getting_started.md)
   - [Software Terminology](./software/terminology.md)
