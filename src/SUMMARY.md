@@ -12,12 +12,9 @@
 
 # Divisions
 
-- Mechanical
-  - [Overview](./mechanical/README.md)
-  - [Getting Started](./mechanical/getting_started.md)
+- [What is Mechanical?](./mechanical/README.md)
 
-- Software
-  - [Overview](./software/README.md)
+- [What is Software?](./software/README.md)
   - [Getting Started](./software/getting_started.md)
   - [Software Terminology](./software/terminology.md)
   - [Conventions and Style](./software/style.md)
