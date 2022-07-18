@@ -1,15 +1,12 @@
 # Software
 
-**IMPORTANT: [What do all these fancy software words 
-mean?](./software/terminology.md)**
-
-> The BitBuckets Software division wiki
+> Software writes the robot code!
 
 ## What do we do?
 The Software subdivision of BitBuckets handles all of the code that 
 controls the robot, as opposed to the structure and design of the robot 
 
-## What will we learn/need to know
+## What will we learn/need to know?
 Software revolves around writing subsystems, or compartmentalized blocks 
 of code for each aspect that the robot needs to have. For instance, if the 
 robot needs to move based on what it sees, we would have a Drive subsystem 
@@ -34,3 +31,5 @@ which helps us control the robot parts' built in code
 - Live in the Basement
 - Write code and complain when it doesn't work
 - Hackerman
+
+Interested? Head to [Getting Started](./software/getting_started.md)
