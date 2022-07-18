@@ -12,6 +12,7 @@
 
 [Mechanical](./mechanical/README.md)
   - [Getting Started](./mechanical/getting_started.md)
+
 [Software](./software/README.md)
   - [Getting Started](./software/getting_started.md)
   - [Software Terminology](./software/terminology.md)
