@@ -2,6 +2,12 @@
 
 [Introduction](./README.md)
 
+# FRC
+
+- [What is FRC?](./frc/README.md)
+  - [FRC Rules](./frc/rules.md)
+  - [FRC Terminology](./frc/terminology.md)
+
 # Divisions
 
 - [Mechanical](./mechanical/README.md)
@@ -15,12 +21,6 @@
     - WPI
     - VCS
     - Math
-
-# FRC
-
-- [What is FRC?](./frc/README.md)
-- [FRC Rules](./frc/rules.md)
-- [FRC Terminology](./frc/terminology.md)
 
 # Other
 
