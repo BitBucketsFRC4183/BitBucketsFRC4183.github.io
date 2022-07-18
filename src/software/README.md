@@ -8,7 +8,6 @@ mean?](./software/terminology.md)**
 # What do we do?
 The Software subdivision of BitBuckets handles all of the code that 
 controls the robot, as opposed to the structure and design of the robot 
-(although we may have a say on that).
 
 # What will we learn/need to know
 Software revolves around writing subsystems, or compartmentalized blocks 
