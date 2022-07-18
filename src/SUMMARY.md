@@ -1,4 +1,4 @@
-# Bit Buckets
+# BitBuckets
 
 [Introduction](./README.md)
 
