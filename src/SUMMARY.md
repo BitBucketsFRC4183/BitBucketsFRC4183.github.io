@@ -16,12 +16,7 @@
   - [Getting Started](./software/getting_started.md)
   - [Software Terminology](./software/terminology.md)
   - [Conventions and Style](./software/style.md)
-  - Topics
-    - Java
-    - WPI
-    - VCS
-    - Math
-
+  
 # Other
 
 - [Important Links](./other/links.md)
