@@ -32,4 +32,4 @@ which helps us control the robot parts' built in code
 - Write code and complain when it doesn't work
 - Hackerman
 
-Interested? Head to [Getting Started](./software/getting_started.md).
+Interested? Head to [Getting Started](./getting_started.md).
