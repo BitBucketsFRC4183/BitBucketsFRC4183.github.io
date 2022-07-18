@@ -1,8 +1,7 @@
+# Mechanical
 
 Mechanical!!!!
 
-# Mechanical Stuff
+## Mechanical Stuff
 
 !TODO vinyas pls fill this out
-
-# grabcad projectile physics pcb laser cutter
