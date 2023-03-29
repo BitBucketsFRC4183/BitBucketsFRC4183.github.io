@@ -16,6 +16,7 @@
 - [What is Software?](./software/README.md)
   - [Getting Started](./software/getting_started.md)
   - [Software Terminology](./software/terminology.md)
+  - [Software Offseason Trsining](./software/training.md)
   - [Conventions and Style](./software/style.md)
   
 # Other
