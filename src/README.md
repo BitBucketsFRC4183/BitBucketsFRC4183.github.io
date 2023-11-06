@@ -6,6 +6,8 @@
 This is a site for storing all of the information and documentation 
 required to quickly understand BitBuckets related concepts
 
+therese was here
+
 ## How do I get started?
 If you know which subdivision of BitBuckets you are interested in, go to 
 the relevant division's Get Started page and follow from there!
