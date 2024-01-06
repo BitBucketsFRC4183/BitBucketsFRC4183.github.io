@@ -17,6 +17,7 @@
   - [Getting Started](./software/getting_started.md)
   - [Software Terminology](./software/terminology.md)
   - [Software Offseason Training](./software/training.md)
+    - [Software Lessons](./software/offseason_lessons.md)
   - [Season Season Plans](./software/general_plans.md)
   
 # Other
