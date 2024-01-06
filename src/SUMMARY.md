@@ -14,6 +14,7 @@
 
 - [Mechanical](./mechanical/README.md)
 - [Software](./software/README.md)
+  - [Read Me](./software/README.md)
   - Training Season
     - [Getting Started](./software/getting_started.md)
     - [Software Terminology](./software/terminology.md)
