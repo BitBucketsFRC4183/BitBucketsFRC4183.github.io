@@ -13,13 +13,13 @@
 # Divisions
 
 - [Mechanical](./mechanical/README.md)
-- [Software](./software/README.md)
+- [Software](./README.md)
   - [Read Me](./software/README.md)
-  - Training Season
+  - [Training Season](./README.md)
     - [Getting Started](./software/getting_started.md)
     - [Software Terminology](./software/terminology.md)
     - [Software Offseason Training](./software/training.md)
-  - Competition Season
+  - [Competition Season](./README.md)
     - [Season General Plans](./software/general_plans.md)
   
 # Other
