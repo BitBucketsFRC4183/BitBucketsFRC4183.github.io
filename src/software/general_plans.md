@@ -3,7 +3,8 @@
 
 
 ## What is our plan for the next few weeks?
-Software Leadership has created what we call a “rolling plan”
+**Software Leadership has created what we call a “rolling plan”**
+
 We have planned the next few weeks based on a limited viewpoint. Obviously, over the course of the season things will happen so drastically and quickly that we cannot account for all the changes. 
 
 
@@ -14,37 +15,58 @@ We have planned the next few weeks based on a limited viewpoint. Obviously, over
 
 
 These are optional. If you really want to be on a subteam with a friend just ask us and we will switch you
-What does this mean for you?
-Under the “What is our plan for the next few weeks” block of this document, you will be able to see the current “rolling plan” and the sub teams that are active during the current/next/next next week.
+
+**What does this mean for you?**
+
+- Under the “What is our plan for the next few weeks” block of this document, you will be able to see the current “rolling plan” and the sub teams that are active during the current/next/next next week.
 
 
-If a subteam is not present the week/day after a week/day that it exists for, that subteam is dissolved, because whatever it was trying to achieve has been completed or obsoleted by season strategies.
+- If a subteam is not present the week/day after a week/day that it exists for, that subteam is dissolved, because whatever it was trying to achieve has been completed or obsoleted by season strategies.
 
 
-Please check this doc for general plan updates, they will appear in here and in software-info
+- Please check this doc for general plan updates, they will appear in here and in software-info
 
 
-With that out of the way, here is our plan as of 1/6/24
-1/6 ONLY
-UX Subdivision - Responsible for coming up with the button inputs and coding them into existence
-1/7 - 1/14
-Drive Subdivision - Responsible for learning how the current drive/odometry code works
-Mechanism Subdivision - Responsible for writing preliminary code to control AND SIMULATE the mechanism
-‘Eyes’ Subdivision - Responsible for learning how the current vision code and vision infrastructure works, input all field/vision constants into code, responsible for setting up PhotonVision onto the new OrangePis once they arrive
-1/14 - 1/21
-Odometry/Drive Subdivision - Responsible for coding drive autonomous routes based on game strategy (TBD)
-Mechanism Subdivision - Continue Work
-Eyes Team - Set up multiple camera vision, vision filtering (intro to kalman filter)
-What should you do first at meetings?
+
+**With that out of the way, here is our plan as of 1/6/24**
+
+- 1/6 ONLY
+
+  - UX Subdivision - Responsible for coming up with the button inputs and coding them into existence
+
+- 1/7 - 1/14
+
+  - Drive Subdivision - Responsible for learning how the current drive/odometry code works
+
+  - Mechanism Subdivision - Responsible for writing preliminary code to control AND SIMULATE the mechanism
+
+  - ‘Eyes’ Subdivision - Responsible for learning how the current vision code and vision infrastructure works, input all field/vision constants into code, responsible for setting up PhotonVision onto the new OrangePis once they arrive
+
+- 1/14 - 1/21
+
+  - Odometry/Drive Subdivision - Responsible for coding drive autonomous routes based on game strategy (TBD)
+
+  - Mechanism Subdivision - Continue Work
+
+  - Eyes Team - Set up multiple camera vision, vision filtering (intro to kalman filter)
+
+## What should you do first at meetings?
+
 In order,
 
 
-Collect information from Software Leadership
-We will give announcements on current tasks, the progress of your and other subdivisions, and as the situation requires subdivision specific lessons.
-We may sometimes give surveys to check up on subdivision progress
-Collect information from Mechanical
-We will try to set aside a specific period at the beginning of each meeting to have each software subdivision communicate with mechanical subdivisions
-Check Software Projects for updates to your specific tasks
+
+**Collect information from Software Leadership**
+
+- We will give announcements on current tasks, the progress of your and other subdivisions, and as the situation requires subdivision specific lessons.
+
+- We may sometimes give surveys to check up on subdivision progress
+
+**Collect information from Mechanical**
+
+- We will try to set aside a specific period at the beginning of each meeting to have each software subdivision communicate with mechanical subdivisions
+
+**Check Software Projects(https://docs.google.com/spreadsheets/d/1ZVR3NF4eum5lGa81ugy1T1uEbDaprLVyZKNRlMniG7s/edit#gid=0)** for updates to your specific tasks
 Arjun will update the software projects sheet to specify what specific tasks each subdivision may have
 If you know of a conceptual “task” that the subdivision is working on that is not listed on the projects sheet, please let me or Arjun know so we can update it
 Nothing to work on?
