@@ -1,5 +1,5 @@
 # Software, General Plans and Procedures
-*Matt and Arjun*
+*By Matt and Arjun*
 
 
 ## What is our plan for the next few weeks?
@@ -69,7 +69,7 @@ In order,
 **Check [Software Projects](https://docs.google.com/spreadsheets/d/1ZVR3NF4eum5lGa81ugy1T1uEbDaprLVyZKNRlMniG7s/edit#gid=0) for updates to your specific tasks**
 
 - Arjun will update the software projects sheet to specify what specific tasks each subdivision may have
-- If you know of a conceptual “task” that the subdivision is working on that is not listed on the projects sheet, please let me or Arjun know so we can update it
+- If you know of a conceptual “task” that the subdivision is working on that is not listed on the projects sheet, please let Matt or Arjun know so we can update it
 
 **Nothing to work on?**
 
