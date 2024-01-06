@@ -17,7 +17,7 @@
   - [Getting Started](./software/getting_started.md)
   - [Software Terminology](./software/terminology.md)
   - [Software Offseason Training](./software/training.md)
-  - [Conventions and Style](./software/style.md)
+  - [Season General Plans](./software/general_plans.md)
   
 # Other
 
