@@ -3,3 +3,4 @@ During the offseason, softwarre trains up on all things Java, Electrical/Hardwar
 All necessary resources can be found here, including our most recent years software lectures
 
 ## Hands-On Project Updates
+2024 Offseason Plan
