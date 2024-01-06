@@ -14,10 +14,12 @@
 
 - [Mechanical](./mechanical/README.md)
 - [Software](./software/README.md)
-  - [Getting Started](./software/getting_started.md)
-  - [Software Terminology](./software/terminology.md)
-  - [Software Offseason Training](./software/training.md)
-  - [Season General Plans](./software/general_plans.md)
+  - Training Season
+    - [Getting Started](./software/getting_started.md)
+    - [Software Terminology](./software/terminology.md)
+    - [Software Offseason Training](./software/training.md)
+  - Competition Season
+    - [Season General Plans](./software/general_plans.md)
   
 # Other
 
