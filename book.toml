@@ -6,4 +6,4 @@ src = "src"
 title = "BitBuckets FRC Wiki"
 
 [output.html]
-default-theme = "coal"
+default-theme = "light"
