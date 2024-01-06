@@ -12,8 +12,8 @@
 
 # Divisions
 
-- [What is Mechanical?](./mechanical/README.md)
-- [What is Software?](./software/README.md)
+- [Mechanical](./mechanical/README.md)
+- [Software](./software/README.md)
   - [Getting Started](./software/getting_started.md)
   - [Software Terminology](./software/terminology.md)
   - [Software Offseason Training](./software/training.md)
