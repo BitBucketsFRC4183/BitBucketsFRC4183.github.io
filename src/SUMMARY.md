@@ -13,8 +13,7 @@
 # Divisions
 
 - [Mechanical](./mechanical/README.md)
-- [Software](./README.md)
-  - [Read Me](./software/README.md)
+- [Software (click me!)](./README.md)
   - [Getting Started](./software/getting_started.md)
   - [Software Terminology](./software/terminology.md)
   - [Software Offseason Training](./software/training.md)
