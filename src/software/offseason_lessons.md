@@ -87,4 +87,5 @@
   - Follows framework of 3Blue1Brown
 - [Mattlib](https://gamma.app/public/Mattlib-k5uc6lwy2t9ne11)
   - Mattlib
-
+- [J08](https://gamma.app/public/J08-Abstract-9gnml1gldmaqwtz)
+  - Abstract Classes
