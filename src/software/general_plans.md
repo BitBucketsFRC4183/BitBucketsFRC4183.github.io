@@ -38,7 +38,7 @@ These are optional. If you really want to be on a subteam with a friend just ask
 
   - Drive Subdivision - Responsible for learning how the current drive/odometry code works
 
-  - Mechanism Subdivision - Responsible for writing preliminary code to control AND SIMULATE the mechanism
+  - Shooter Subdivision - Responsible for writing preliminary code to control AND SIMULATE the shooter
 
   - ‘Eyes’ Subdivision - Responsible for learning how the current vision code and vision infrastructure works, input all field/vision constants into code, responsible for setting up PhotonVision onto the new OrangePis once they arrive
 
@@ -46,7 +46,7 @@ These are optional. If you really want to be on a subteam with a friend just ask
 
   - Odometry/Drive Subdivision - Responsible for coding drive autonomous routes based on game strategy (TBD)
 
-  - Mechanism Subdivision - Continue Work
+  - Shooter Subdivision - Continue Work
 
   - Eyes Team - Set up multiple camera vision, vision filtering (intro to kalman filter)
 
@@ -162,3 +162,9 @@ This is a basic summary to jog your memory, but please go look at S01 in its ent
 ## What less-stressful tasks can I do?
 
 *I’m busy with school/sick/need to finish x or y or z and still want to contribute to the team, but I don’t know*
+
+- Here are some general tasks you can work on:
+  - 
+
+
+
