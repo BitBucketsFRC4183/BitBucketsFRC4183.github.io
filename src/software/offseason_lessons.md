@@ -85,3 +85,6 @@
 - [M01](https://gamma.app/docs/Intro-to-Linear-Algebra-epiaz7jv9yc1uvj)
   - Linear Algebra
   - Follows framework of 3Blue1Brown
+- [Mattlib](https://gamma.app/public/Mattlib-k5uc6lwy2t9ne11)
+  - Mattlib
+
