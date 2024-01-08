@@ -37,10 +37,13 @@ These are optional. If you really want to be on a subteam with a friend just ask
 - 1/7 - 1/14
 
   - Drive Subdivision - Responsible for learning how the current drive/odometry code works
+    - Axel
 
   - Shooter Subdivision - Responsible for writing preliminary code to control AND SIMULATE the shooter
+    - IB, Scott, Vincent, Daniel, Erin
 
   - ‘Eyes’ Subdivision - Responsible for learning how the current vision code and vision infrastructure works, input all field/vision constants into code, responsible for setting up PhotonVision onto the new OrangePis once they arrive
+    - Louis, Titus, Therese
 
 - 1/14 - 1/21
 
@@ -48,7 +51,9 @@ These are optional. If you really want to be on a subteam with a friend just ask
 
   - Shooter Subdivision - Continue Work
 
-  - Eyes Team - Set up multiple camera vision, vision filtering (intro to kalman filter)
+  - Eyes Subdivision - Set up multiple camera vision, vision filtering (intro to kalman filter)
+ 
+  - Ground Intake Subdivision - Code mechanism for ground intake to be passed through the robot
 
 ## What should you do first at meetings?
 
