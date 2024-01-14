@@ -36,24 +36,21 @@ These are optional. If you really want to be on a subteam with a friend just ask
 
 - 1/7 - 1/14
 
-  - Drive Subdivision - Responsible for learning how the current drive/odometry code works
+  - Drive Subdivision - Responsible for learning how the current drive/odometry code works **DISSOLVED**
     - Axel
 
-  - Shooter Subdivision - Responsible for writing preliminary code to control AND SIMULATE the shooter
+  - Shooter Subdivision - Responsible for writing preliminary code to control AND SIMULATE the shooter **FINISHED**
     - IB, Scott, Vincent, Daniel, Erin
 
-  - ‘Eyes’ Subdivision - Responsible for learning how the current vision code and vision infrastructure works, input all field/vision constants into code, responsible for setting up PhotonVision onto the new OrangePis once they arrive
+  - ‘Eyes’ Subdivision - Responsible for learning how the current vision code and vision infrastructure works, input all field/vision constants into code, responsible for setting up PhotonVision onto the new OrangePis once they arrive **FINISHED**
     - Louis, Titus, Therese
 
 - 1/14 - 1/21
 
-  - Odometry/Drive Subdivision - Responsible for coding drive autonomous routes based on game strategy (TBD)
+  - Odometry/Auto Subdivision- Responsible for coding drive autonomous routes. This week: speaker score and taxi
 
-  - Shooter Subdivision - Continue Work
+  - Climber Subdivision- Responsible for coding climber (as an elevator) to raise and cling onto the chain
 
-  - Eyes Subdivision - Set up multiple camera vision, vision filtering (intro to kalman filter)
- 
-  - Ground Intake Subdivision - Code mechanism for ground intake to be passed through the robot
 
 ## What should you do first at meetings?
 
@@ -169,7 +166,8 @@ This is a basic summary to jog your memory, but please go look at S01 in its ent
 *I’m busy with school/sick/need to finish x or y or z and still want to contribute to the team, but I don’t know*
 
 - Here are some general tasks you can work on:
-  - 
+  - Unit Testing
+  - Wiring
 
 
 
