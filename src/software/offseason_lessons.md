@@ -78,7 +78,7 @@
 - [R04](https://gamma.app/docs/R04-Autonomous-and-Commands-o4lsh7v9ujdj5c8)
   - Autonomous And Commands
 
-- J06
+- [J06](https://gamma.app/docs/J07-Packages-Testing-and-Simulation-m0au4wubhjfydqq)
   - Package Layout, Modules, Unit Testing, Simulation
   - Presentation Unavailable
 
